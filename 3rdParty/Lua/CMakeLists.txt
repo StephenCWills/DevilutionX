@@ -10,8 +10,8 @@ endif()
 
 include(FetchContent)
 FetchContent_Declare_ExcludeFromAll(Lua
-    URL https://github.com/walterschell/Lua/archive/88246d621abf7b6fba9332f49229d507f020e450.tar.gz
-    URL_HASH MD5=03b76927cb5341ffc53bea12c37ddcca
+    URL https://github.com/walterschell/Lua/archive/c19bcf03a13a566175732272207b997789a5c1d8.tar.gz
+    URL_HASH MD5=c6895f1e1aad69936b666ae26ac97a2b
 )
 FetchContent_MakeAvailable_ExcludeFromAll(Lua)
 
